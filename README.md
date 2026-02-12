@@ -32,3 +32,15 @@ Pour un système embarqué utilisant le dataset Fashion-MNIST, l'architecture la
 ## 🛠️ Configuration de test
 * **Logiciels** : Python, Google Colab, Spyder.
 * **Matériel** : AMD Ryzen 3 3200U @ 2.60 GHz, 8 Go RAM.
+
+## 🛠️ Installation et Utilisation
+
+### Prérequis
+* Python 3.8+
+* Environnement virtuel (recommandé)
+
+### Installation
+1. Clonez le dépôt :
+   ```bash
+   git clone [https://github.com/votre-pseudo/optimisation-ia-embarquee.git](https://github.com/votre-pseudo/optimisation-ia-embarquee.git)
+   cd optimisation-ia-embarquee
