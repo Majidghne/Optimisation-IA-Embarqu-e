@@ -44,3 +44,4 @@ Pour un système embarqué utilisant le dataset Fashion-MNIST, l'architecture la
    ```bash
    git clone [https://github.com/Majidghne/Optimisation-IA-Embarqu-e.git](https://github.com/Majidghne/Optimisation-IA-Embarqu-e.git)
    cd Optimisation-IA-Embarqu-e
+   pip install -r requirements.txt
