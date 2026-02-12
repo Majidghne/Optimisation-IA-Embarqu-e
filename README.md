@@ -42,5 +42,5 @@ Pour un système embarqué utilisant le dataset Fashion-MNIST, l'architecture la
 ### Installation
 1. Clonez le dépôt :
    ```bash
-   git clone [https://github.com/votre-pseudo/optimisation-ia-embarquee.git](https://github.com/votre-pseudo/optimisation-ia-embarquee.git)
-   cd optimisation-ia-embarquee
+   git clone [https://github.com/Majidghne/Optimisation-IA-Embarqu-e.git](https://github.com/Majidghne/Optimisation-IA-Embarqu-e.git)
+   cd Optimisation-IA-Embarqu-e
